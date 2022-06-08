@@ -1,0 +1,48 @@
+body{
+    background-color:white;
+    margin-top: 5px;
+}
+.headinghotel{
+    border-style: solid;
+    text-align: center;
+
+}
+#hotelser{
+    background: url(img6.jpg) no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#para{
+    margin-top: 0;
+    border-style: solid;
+    background: url(img6.jpg) no-repeat;
+}
+#para1{
+    margin: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom:5% ;
+    border-style: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para3{
+    margin-left: 5%;
+    margin-right:60%;
+    margin-bottom: 3%x;
+    border-style: solid;
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    background:url(img7.jpg);
+    border-radius:10px;
+}
+.para4{
+    margin:10px;
+    border-style: solid;
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+  
+}

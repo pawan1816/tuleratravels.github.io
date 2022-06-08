@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    background:url(img19.jpg);
+    background-size:cover;
+}
+#main{
+    border: solid;
+    padding-left: 35%;
+    font-style: unset;
+}
+#details{
+    margin-top: 30%;
+    margin-bottom: 10%;
+    margin-left: 70%;
+    border-style: solid;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    background-color: rgb(157, 90, 7);
+}
+#ourdetails{
+    border-style: solid;
+    margin-top: 110%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-right:10% ;
+    background-color:rgb(157, 90, 7);
+}
